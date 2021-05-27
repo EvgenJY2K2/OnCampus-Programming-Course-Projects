@@ -1,6 +1,6 @@
 ## What and why
 
-:wave:Hello!  
+🌼Hello!  
 
 Here you will find all of the code that I have written while taking the programming course at the Pre-Bachelor's Program at OnCampus, Lund University. <br/> I have sorted out my code by specific topics, which you can easily access through the contents section.
 
