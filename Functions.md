@@ -1,5 +1,5 @@
 ## Functions
-###### Task 1: Define a function with one and then two variables, and try to run it with various numbers.
+###### Task 1: define a function with one and then two variables, and try to run it with various numbers.
 ```
 #With one variable:
 
@@ -16,7 +16,7 @@ def function(my_1variable, my_2variable):
 
 print(function(1, 3))
 ```
-###### Task 2: Define and create a looping function; then try to run it with various numbers.
+###### Task 2: define and create a looping function, then try to run it with various numbers.
 ```
 def function(x, y):
     while x < y:
