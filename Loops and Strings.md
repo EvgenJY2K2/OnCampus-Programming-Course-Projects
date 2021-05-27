@@ -1,5 +1,5 @@
 ## Loops and Strings
-###### Task 1: The program checks if year is a leap year.
+###### Task 1: check if year is a leap year.
 ```
 year = input('Please enter year: ')  
  try:  
@@ -20,7 +20,7 @@ if year % 4 ==0:
  else:  
     print(str(year) + " is not a leap year")
 ```
-###### Task 2: The program counts how many string objects there are in the list.
+###### Task 2: count how many string objects there are in the list.
 ```
 lst = list()
 count = 0
