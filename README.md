@@ -8,9 +8,9 @@ Here you will find all of the code that I have written while taking the programm
 
 ### Table of Contents
 
-* [Intermediate Expressions](https://github.com/EvgenJY2K2/Scientific-Computing-with-Python-Projects/blob/main/Intermediate%20Expressions.md)  
+* [Loops and Strings](https://github.com/EvgenJY2K2/OnCampus-Programming-Course-Projects/blob/main/Loops%20and%20Strings.md)
+* [Functions](https://github.com/EvgenJY2K2/OnCampus-Programming-Course-Projects/blob/main/Functions.md)
+* [FizzBuzz Game](https://github.com/EvgenJY2K2/OnCampus-Programming-Course-Projects/blob/main/FizzBuzz%20Game.md)
+* [Mathematics Functions](https://github.com/EvgenJY2K2/OnCampus-Programming-Course-Projects/blob/main/Mathematics%20Functions.md)  
 
-ℹ️About the course "Pre-Bachelor's Preparatory Program" at OnCampus, Lund University.  
-
-
-It is a 
+ℹ️ You can check out more projects and find some information about the course "Pre-Bachelor's Preparatory Program" at OnCampus, Lund University on my personal website: https://eugefimencko.wixsite.com/my-site
