@@ -1,5 +1,5 @@
 ## The FizzBuzz Game
-###### Task: Write a function to play the Game of FizzBuzz according to the following rules: for multiples of one number print "Fizz"; for multiples of the other number print "Buzz". For numbers which are multiples of both print "FizzBuzz".
+###### Task: write a function to play the Game of FizzBuzz according to the following rules: for multiples of one number print "Fizz"; for multiples of the other number print "Buzz". For numbers which are multiples of both print "FizzBuzz".
 ```
 def fizzbuzz(a, b, div1=3, div2=5):
     ''' 
